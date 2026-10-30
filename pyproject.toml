@@ -31,7 +31,7 @@ dev = [
 ]
 
 [project.urls]
-Repository = "https://github.com/Ahmadmohammadip/battery-storage-optimization-pyomo"
+Repository = "https://github.com/matinjalali543-lang/battery-storage-optimization-pyomo"
 
 [tool.setuptools.packages.find]
 where = ["src"]
